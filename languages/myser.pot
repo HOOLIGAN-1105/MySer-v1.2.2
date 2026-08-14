@@ -1,0 +1,245 @@
+# Copyright (C) 2026 HOOLIGAN-1105 (Rachin Sergey)
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: MySer - Сервисный центр 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/myser\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-02T21:56:14+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: myser\n"
+
+#. Plugin Name of the plugin
+#: myser.php
+msgid "MySer - Сервисный центр"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: myser.php
+msgid "https://myser.ru"
+msgstr ""
+
+#. Description of the plugin
+#: myser.php
+msgid "Плагин для управления сервисным центром: заказы, клиенты, ремонт, онлайн-запись."
+msgstr ""
+
+#. Author of the plugin
+#: myser.php
+msgid "HOOLIGAN-1105 (Rachin Sergey)"
+msgstr ""
+
+#: lib/admin/menu.php:94
+#: lib/admin/menu.php:95
+msgid "MySer"
+msgstr ""
+
+#: lib/admin/menu.php:107
+msgid "Дашборд"
+msgstr ""
+
+#: lib/admin/menu.php:108
+#: lib/templates/orders.php:13
+msgid "Заказы"
+msgstr ""
+
+#: lib/admin/menu.php:109
+#: lib/templates/clients.php:8
+msgid "Клиенты"
+msgstr ""
+
+#: lib/admin/menu.php:110
+#: lib/templates/services.php:8
+msgid "Услуги"
+msgstr ""
+
+#: lib/admin/menu.php:111
+#: lib/templates/items.php:8
+msgid "Товары"
+msgstr ""
+
+#: lib/admin/menu.php:112
+msgid "Сотрудники"
+msgstr ""
+
+#: lib/admin/menu.php:113
+#: lib/templates/settings.php:10
+msgid "Настройки"
+msgstr ""
+
+#: lib/admin/menu.php:114
+msgid "Логи"
+msgstr ""
+
+#: lib/admin/menu.php:115
+msgid "Бекапы"
+msgstr ""
+
+#: lib/admin/menu.php:279
+msgid "Недостаточно прав."
+msgstr ""
+
+#: lib/admin/menu.php:304
+#: lib/admin/menu.php:322
+#: lib/includes/ajax-handler.php:65
+msgid "Недостаточно прав"
+msgstr ""
+
+#: lib/admin/menu.php:329
+msgid "Лог не найден"
+msgstr ""
+
+#: lib/admin/menu.php:360
+msgid "Управление бекапами"
+msgstr ""
+
+#: lib/admin/menu.php:370
+msgid "Экспортируйте или импортируйте данные плагина. Бекапы хранятся в папке"
+msgstr ""
+
+#: lib/admin/menu.php:373
+msgid "Создать бекап"
+msgstr ""
+
+#: lib/admin/menu.php:374
+msgid "Импортировать бекап"
+msgstr ""
+
+#: lib/admin/menu.php:375
+msgid "Обновить список"
+msgstr ""
+
+#: lib/admin/menu.php:380
+msgid "Список бекапов"
+msgstr ""
+
+#: lib/admin/menu.php:381
+msgid "Удалить выбранные"
+msgstr ""
+
+#: lib/admin/menu.php:394
+msgid "Имя файла"
+msgstr ""
+
+#: lib/admin/menu.php:395
+msgid "Тип"
+msgstr ""
+
+#: lib/admin/menu.php:396
+msgid "Размер"
+msgstr ""
+
+#: lib/admin/menu.php:397
+msgid "Дата изменения"
+msgstr ""
+
+#: lib/admin/menu.php:398
+msgid "Действия"
+msgstr ""
+
+#: lib/includes/ajax-handler.php:56
+msgid "Nonce verification failed"
+msgstr ""
+
+#: lib/includes/ajax-handler.php:140
+#: lib/includes/ajax-handler.php:197
+msgid "Invalid client ID"
+msgstr ""
+
+#: lib/includes/ajax-handler.php:147
+msgid "Client not found"
+msgstr ""
+
+#: lib/templates/clients.php:19
+msgid "Добавить клиента"
+msgstr ""
+
+#: lib/templates/clients.php:23
+msgid "Поиск по имени, фамилии, телефону..."
+msgstr ""
+
+#: lib/templates/clients.php:24
+msgid "Поиск"
+msgstr ""
+
+#: lib/templates/items.php:19
+msgid "Добавить товар"
+msgstr ""
+
+#: lib/templates/orders.php:24
+msgid "Добавить заказ"
+msgstr ""
+
+#: lib/templates/orders.php:32
+msgid "Поиск по номеру, клиенту, модели..."
+msgstr ""
+
+#: lib/templates/orders.php:34
+msgid "Все статусы"
+msgstr ""
+
+#: lib/templates/orders.php:43
+msgid "С даты"
+msgstr ""
+
+#: lib/templates/orders.php:44
+msgid "По дату"
+msgstr ""
+
+#: lib/templates/orders.php:45
+msgid "Применить"
+msgstr ""
+
+#: lib/templates/services.php:19
+msgid "Добавить услугу"
+msgstr ""
+
+#: lib/templates/settings.php:16
+msgid "Ребут плагина"
+msgstr ""
+
+#: lib/templates/settings.php:24
+msgid "Основные настройки"
+msgstr ""
+
+#: lib/templates/settings.php:27
+msgid "Название компании"
+msgstr ""
+
+#: lib/templates/settings.php:31
+msgid "Логотип компании"
+msgstr ""
+
+#: lib/templates/settings.php:47
+msgid "Телефон"
+msgstr ""
+
+#: lib/templates/settings.php:51
+msgid "Email"
+msgstr ""
+
+#: lib/templates/settings.php:55
+msgid "Адрес"
+msgstr ""
+
+#: lib/templates/settings.php:59
+msgid "Префикс заказов"
+msgstr ""
+
+#: lib/templates/settings.php:63
+msgid "Записей на страницу"
+msgstr ""
+
+#: lib/templates/settings.php:69
+msgid "Прочие настройки"
+msgstr ""
+
+#: lib/templates/settings.php:96
+msgid "Сохранить настройки"
+msgstr ""

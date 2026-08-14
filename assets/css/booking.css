@@ -1,0 +1,7 @@
+.myser-booking-wrapper { max-width: 700px; margin: 30px auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #fff; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); } 
+.myser-booking-title { text-align: center; color: #1a1a2e; font-weight: 600; margin-bottom: 25px; } 
+.myser-form-group { margin-bottom: 15px; } 
+.myser-form-group label { display: block; font-weight: 500; color: #2d3436; margin-bottom: 5px; font-size: 14px; } 
+.myser-input, .myser-textarea { width: 100%; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px; font-size: 15px; box-sizing: border-box; } 
+.myser-btn { padding: 10px 24px; border: none; border-radius: 8px; font-size: 16px; font-weight: 500; cursor: pointer; } 
+.myser-btn-primary { background: #6c5ce7; color: #fff; } 
